@@ -35,7 +35,7 @@ In this repository you will find my practice projects, where my knowledge of the
 Click on the images to visit the project code.
 
 <h3>age.py</h3>
-![image](https://user-images.githubusercontent.com/70169625/199723046-7b383cde-8804-4ad9-b3f4-4ae5fd1243dc.png)
+> ![image](https://user-images.githubusercontent.com/70169625/199723046-7b383cde-8804-4ad9-b3f4-4ae5fd1243dc.png)
 
 
 
