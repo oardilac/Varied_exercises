@@ -35,7 +35,7 @@ In this repository you will find my practice projects, where my knowledge of the
 Click on the images to visit the project code.
 
 <h3>age.py</h3>
-[![age.py](https://user-images.githubusercontent.com/70169625/199723046-7b383cde-8804-4ad9-b3f4-4ae5fd1243dc.png)(https://github.com/oardilac/Varied_exercises/blob/main/age/age.py "age.py")
+[![age.py](https://user-images.githubusercontent.com/70169625/199723046-7b383cde-8804-4ad9-b3f4-4ae5fd1243dc.png)](https://github.com/oardilac/Varied_exercises/blob/main/age/age.py "age.py")
 
 My program will tell you if you are older or younger, even if you are the oldest person in the world.
 
