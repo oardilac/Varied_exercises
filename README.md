@@ -32,7 +32,7 @@ In this repository you will find my practice projects, where my knowledge of the
     ```
 
 ## Projects
-Click on the images to visit the project code.
+Click on the folders to visit the project code.
 
 <h3>age.py</h3>
 My program will tell you if you are older or younger, even if you are the oldest person in the world.
